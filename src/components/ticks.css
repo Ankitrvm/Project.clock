@@ -1,0 +1,11 @@
+.tick {
+  height: 48%;
+  width: 0;
+  border-radius: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform-origin: bottom;
+  display: flex;
+  justify-content: center;
+}
